@@ -146,13 +146,13 @@ class _SettingsState extends State<Settings> {
                 ),
                 const SizedBox(height: 15,),
                 TextFormFields(
-                  icon: Icons.key_rounded,
+                  icon: Icons.folder,
                   hintText: 'Snake Directory',
                   controller: snakeDirController,
                 ),
                 const SizedBox(height: 15,),
                 TextFormFields(
-                  icon: Icons.key_rounded,
+                  icon: Icons.folder,
                   hintText: 'Asteroid Directory',
                   controller: asteroidDirController,
                 ),
